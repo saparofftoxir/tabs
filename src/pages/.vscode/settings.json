@@ -1,0 +1,7 @@
+{
+    "editor.formatOnPaste": false,
+    "editor.fontSize": 14,
+    "diffEditor.experimental.showMoves": false,
+    "diffEditor.maxComputationTime": 5000,
+    "diffEditor.wordWrap": "inherit"
+}
